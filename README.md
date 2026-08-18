@@ -9,7 +9,7 @@
 ## Projects
 🚲 1. Customer Segmentation & Conversion Strategy for Bike-Sharing Services
 
-🏃🏼‍♀️ 2. Smart Device Behavioral Analysis for Women’s Health Tech
+🏃🏼‍♀️ 2. [Smart Device Behavioral Analysis for Women’s Health Tech](https://github.com/karlmacher/Behavioral-Analysis-for-Women-s-Health-Tech)
 
 ## Social Media
 <p align="center">
