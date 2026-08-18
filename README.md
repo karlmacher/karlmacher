@@ -1,16 +1,21 @@
-## Hi there 👋
+## Karl Macher Hantelmann 
+**'Junior Data Analyst | Criminologist | Lawyer'**
+## Skills
+<p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,excel,bigquery" />
+  </a>
+</p>
 
-<!--
-**karlmacher/karlmacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+🚲 1. Customer Segmentation & Conversion Strategy for Bike-Sharing Services
 
-Here are some ideas to get you started:
+🏃🏼‍♀️ 2. Smart Device Behavioral Analysis for Women’s Health Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Media
+<p align="center">
+  <a href="https://www.linkedin.com/in/karl-macher/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+</p>
+
+
