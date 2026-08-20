@@ -7,7 +7,7 @@
 </p>
 
 ## Projects
-🚲 1. Customer Segmentation & Conversion Strategy for Bike-Sharing Services
+🚲 1. [Customer Segmentation & Conversion Strategy for Bike-Sharing Services](https://github.com/karlmacher/conversion-analysis-micromovibility)
 
 🏃🏼‍♀️ 2. [Smart Device Behavioral Analysis for Women’s Health Tech](https://github.com/karlmacher/Behavioral-Analysis-for-Women-s-Health-Tech)
 
